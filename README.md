@@ -31,6 +31,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ulisesgopa&icon=7&color=3)](https://visitcount.itsvg.in)
 ---
-[![](https://wakatime.com/share/@cc5cb545-843a-4e56-a3bb-f7beac67dd1e/649423ac-514b-45a4-8121-9505fb7ce8df.svg)
+![](https://wakatime.com/share/@cc5cb545-843a-4e56-a3bb-f7beac67dd1e/649423ac-514b-45a4-8121-9505fb7ce8df.svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
