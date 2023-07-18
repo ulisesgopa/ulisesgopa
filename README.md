@@ -35,6 +35,9 @@
 <!--START_SECTION:waka-->
 
 [![](https://wakatime.com/share/@cc5cb545-843a-4e56-a3bb-f7beac67dd1e/c2d45a86-0d3e-4ce2-83bf-43fda30569d4.svg)
+[![](https://wakatime.com/share/@cc5cb545-843a-4e56-a3bb-f7beac67dd1e/f7a55393-d6fa-429b-8ea5-e4bc9ee36c24.svg)
+[![](https://wakatime.com/share/@cc5cb545-843a-4e56-a3bb-f7beac67dd1e/2373d26a-7930-4a03-8331-02bab55ad6af.svg)
+
 <!--END_SECTION:waka-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
