@@ -32,7 +32,11 @@
 [![](https://visitcount.itsvg.in/api?id=ulisesgopa&icon=7&color=3)](https://visitcount.itsvg.in)
 
 
-<!--START_SECTION:waka--><!--END_SECTION:waka-->
+<!--START_SECTION:waka-->
+<figure>
+    <embed src="https://wakatime.com/share/@cc5cb545-843a-4e56-a3bb-f7beac67dd1e/c2d45a86-0d3e-4ce2-83bf-43fda30569d4.svg"></embed>
+</figure>
+<!--END_SECTION:waka-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
