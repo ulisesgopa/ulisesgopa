@@ -15,8 +15,7 @@
 ## 💻 Tech Stack:
 
 <br>
-
-![GitHub stats](https://githubstats.whoisulisesgomez.com/api?username=ulisesgopa&show_icons=true&theme=dark&locale=es)
+![Ulises Gómez GitHub stats](https://githubstats.whoisulisesgomez.com/api?username=ulisesgopa\&rank_icon=github)
 ![WakaTime stats](https://githubstats.whoisulisesgomez.com/api/wakatime?username=ulisesgopa\&layout=compact&theme=dark&locale=es)
 [![Top Langs](https://githubstats.whoisulisesgomez.com/api/top-langs/?username=ulisesgopa&layout=pie&theme=dark&locale=es)](https://github.com/anuraghazra/github-readme-stats)
 
