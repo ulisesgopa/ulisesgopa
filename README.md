@@ -3,6 +3,7 @@
 I'm a passionate developer focused on creating innovative web solutions with React and Next.js. My focus is on building robust and scalable applications, with a growing interest in DevOps and cybersecurity.
 
 ## Core Skills
+ <br>
 - Frontend Developer Javascript (React & Next JS)
  <br>
 - I’m currently working from home
@@ -11,7 +12,7 @@ I'm a passionate developer focused on creating innovative web solutions with Rea
  <br>
 - I’m learning about - React Native, DevOps (Docker, Kubernetes, AWS, Google Cloud Platform, Expo), Cybersecurity.
  <br>
-- 💬 Ask me about HTML, CSS, Javascript
+- Ask me about HTML, CSS, Javascript
  <br>
 
 
