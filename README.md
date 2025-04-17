@@ -1,24 +1,24 @@
+# Ulises Gómez | Frontend Developer Javascript
 
-# 💫 About me:
+I'm a passionate developer focused on creating innovative web solutions with React and Next.js. My focus is on building robust and scalable applications, with a growing interest in DevOps and cybersecurity.
+
+## Core Skills
+- Frontend Developer Javascript (React & Next JS)
  <br>
-- 🌱 I’m currently learning - Javascript (React & Next JS)
+- I’m currently working from home
  <br>
-- 🔭 I’m currently working from home - Frontend Developer Jr
+- Ready to collaborate and create innovative solutions!
  <br>
-- 👯 I’m looking to collaborate & create
- <br>
-- 🤔 I’m looking for help with - React Native & Backend
+- I’m learning about - React Native, DevOps (Docker, Kubernetes, AWS, Google Cloud Platform, Expo), Cybersecurity.
  <br>
 - 💬 Ask me about HTML, CSS, Javascript
  <br>
 
+
 ## 💻 Tech Stack:
-
-<br>
-
 ![GitHub stats](https://githubstats.whoisulisesgomez.com/api?username=ulisesgopa\&rank_icon=github&theme=dark)
 ![WakaTime stats](https://githubstats.whoisulisesgomez.com/api/wakatime?username=ulisesgopa\&layout=compact&theme=dark&locale=es)
-[![Top Langs](https://githubstats.whoisulisesgomez.com/api/top-langs/?username=ulisesgopa&layout=pie&theme=dark&locale=es)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://githubstats.whoisulisesgomez.com/api/top-langs/?username=ulisesgopa&layout=pie&theme=dark&locale=es)](https://github.com/ulisesgopa/github-readme-stats)
 
 
 
