@@ -15,9 +15,9 @@
 </p>
 
 ## 💻 Tech Stats
-![GitHub stats](https://githubstats.whoisulisesgomez.com/api?username=ulisesgopa\&rank_icon=github&theme=dark)
-![WakaTime stats](https://githubstats.whoisulisesgomez.com/api/wakatime?username=ulisesgopa\&layout=compact&theme=dark&locale=es)
-[![Top Langs](https://githubstats.whoisulisesgomez.com/api/top-langs/?username=ulisesgopa&layout=pie&theme=dark&locale=es)](https://github.com/ulisesgopa/github-readme-stats)
+![GitHub stats](https://github-readme-stats-dun-nine-50.vercel.app/api?username=ulisesgopa\&rank_icon=github&theme=dark)
+![WakaTime stats](https://github-readme-stats-dun-nine-50.vercel.app/api/wakatime?username=ulisesgopa\&layout=compact&theme=dark&locale=es)
+[![Top Langs](https://github-readme-stats-dun-nine-50.vercel.app/api/top-langs/?username=ulisesgopa&layout=pie&theme=dark&locale=es)](https://github.com/ulisesgopa/github-readme-stats)
 
 ##  Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
