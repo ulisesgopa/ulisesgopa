@@ -18,7 +18,7 @@
 | [Ticketera MIES](https://ticketeramies.com) | Event ticketing platform — admin dashboard, landing builder, QR check-in | Next.js · NestJS · PostgreSQL |
 | [POS Colombia](https://mipos.tbswireless.com/) | Point of sale with DIAN electronic invoicing | React · Bun · Prisma |
 | [PeludoTag](https://peludotag.escuelaperritos.com.ar/) | QR-based lost pet recovery platform | Next.js · Supabase |
-| [LatinBridge](https://latinbridge.vercel.app) | Trilingual B2B trade platform (ES/EN/PT) with AI lead qualification | Next.js 15 · Supabase · i18n |
+| [LatinBridge](https://latinbridge.net) | Trilingual B2B trade platform (ES/EN/PT) with AI lead qualification | Next.js 15 · Supabase · i18n |
 | [Octopay](https://www.octopay.com.ar/) | Animated landing for a digital payments platform | Next.js · Framer Motion |
 
 More on the [portfolio](https://whoisulisesgomez.vercel.app/projects) →
