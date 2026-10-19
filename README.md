@@ -2,7 +2,7 @@
 <h3 align="center">AI Engineer & Founder | LLM Apps · Agentic Workflows · Next.js · TypeScript</h3>
 
 <p align="center">
-I build systems that fix real processes, and I put AI where it removes work rather than where it looks good. My software runs real businesses: <strong>MiPOS</strong> issues DIAN electronic invoices for its first paying client in Colombia, and <strong>Escuela Perritos</strong>, my canine education company, runs on a CRM I built. Co-founder of <strong>Stream Tech</strong>, frontend at <strong>Santo Código</strong>. Based in Buenos Aires 🇦🇷, open to remote roles.
+AI Engineer building production systems with LLMs and agentic workflows. Co-founder of <strong>Stream Tech</strong> (point of sale & event SaaS) and founder of <strong>Escuela Perritos</strong>. Currently shipping frontend at <strong>Santo Código</strong>, a software development agency. Based in Buenos Aires 🇦🇷, open to remote roles.
 </p>
 
 - 👨‍💻 Portfolio & all my projects → **[whoisulisesgomez.vercel.app](https://whoisulisesgomez.vercel.app/)**
