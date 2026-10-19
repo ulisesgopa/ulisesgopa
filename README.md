@@ -1,39 +1,42 @@
 <h1 align="center">Hi 👋, I'm Ulises Gómez</h1>
-<h3 align="center">Frontend Developer & Founder | React · Next.js · TypeScript</h3>
+<h3 align="center">AI Engineer & Founder | LLM Apps · Agentic Workflows · Next.js · TypeScript</h3>
 
 <p align="center">
-3+ years building SaaS platforms, admin dashboards, and landing pages. Co-founder of <strong>Stream Tech</strong> (streaming & event ticketing) and founder of <strong>Escuela Perritos</strong>. Currently shipping frontend at <strong>Santo Código</strong>, a software development agency. Based in Buenos Aires 🇦🇷, open to remote roles.
+I build systems that fix real processes, and I put AI where it removes work rather than where it looks good. My software runs real businesses: <strong>MiPOS</strong> issues DIAN electronic invoices for its first paying client in Colombia, and <strong>Escuela Perritos</strong>, my canine education company, runs on a CRM I built. Co-founder of <strong>Stream Tech</strong>, frontend at <strong>Santo Código</strong>. Based in Buenos Aires 🇦🇷, open to remote roles.
 </p>
 
 - 👨‍💻 Portfolio & all my projects → **[whoisulisesgomez.vercel.app](https://whoisulisesgomez.vercel.app/)**
-- 🔭 Currently building: event ticketing products at Stream Tech and client apps at Santo Código
-- 🌱 Deepening: React Native (Expo) native distribution and DevOps (Docker, AWS, Cloudflare)
-- 💬 Ask me about **React, Next.js, TypeScript, Tailwind CSS, Astro**
+- 🤖 How I build: spec-driven development with Claude Code, agents with scoped tools and explicit permissions, tests as guardrails
+- 🔭 Currently building: an AI video pipeline (Claude Agent SDK + ElevenLabs + Remotion) and a personal operating system for my habits, finances, nutrition and work
+- 💬 Ask me about **agentic workflows, LLM integration, Next.js, TypeScript, process automation**
 - 📫 Reach me: **ulisesgopa@gmail.com**
 
 ## 🚀 Featured Projects
 
 | Project | What it is | Stack |
 |---|---|---|
-| [Ticketera MIES](https://ticketeramies.com) | Event ticketing platform — admin dashboard, landing builder, QR check-in | Next.js · NestJS · PostgreSQL |
-| [POS Colombia](https://mipos.tbswireless.com/) | Point of sale with DIAN electronic invoicing | React · Bun · Prisma |
-| [PeludoTag](https://peludotag.escuelaperritos.com.ar/) | QR-based lost pet recovery platform | Next.js · Supabase |
-| [LatinBridge](https://latinbridge.net) | Trilingual B2B trade platform (ES/EN/PT) with AI lead qualification | Next.js 15 · Supabase · i18n |
-| [Octopay](https://www.octopay.com.ar/) | Animated landing for a digital payments platform | Next.js · Framer Motion |
+| [Escuela Perritos](https://www.escuelaperritos.com.ar/) | My own business on one app: landing + integrated CRM with automatic billing, Mercado Pago, walker routes, certifications with QR | Next.js 16 · Prisma · PostgreSQL |
+| [MiPOS](https://mipos.tbswireless.com/) | POS SaaS with DIAN e-invoicing, in production in Colombia. Offline desktop registers | React · Bun · Prisma · Electron |
+| [Event Hub BA](https://event-hub-ba.vercel.app/) | Event management SaaS for institutions: registration, QR accreditation, private streaming. 5,200+ guests accredited | Next.js · TanStack Start · NestJS |
+| Reel Studio _(in progress)_ | AI pipeline from idea to finished reel, with a human approval gate at every stage | Claude Agent SDK · ElevenLabs · Remotion · Supabase |
+| [LatinBridge](https://latinbridge.com.ar) | Trilingual B2B trade platform (ES/EN/PT) with a provider-agnostic LLM lead-qualification assistant | Next.js · Supabase · i18n |
 
 More on the [portfolio](https://whoisulisesgomez.vercel.app/projects) →
 
 ## 🛠️ Tech Stack
 
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=%23D04A37)
+![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
